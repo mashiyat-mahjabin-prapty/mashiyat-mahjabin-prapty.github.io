@@ -11,26 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Sc. Engineering in Computer Science and Engineering, 2024
+* Higher Secondary School Certificate Examination, 2018 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* Summer 2024: Research Intern
+  * National University of Singapore
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: Professor Dr. Yang Zhang
 
-* Fall 2015: Research Assistant
-  * Github University
+* Summer 2023: Machine Learning Intern
+  * e-SRD Lab, BUET and NWPGCL
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
