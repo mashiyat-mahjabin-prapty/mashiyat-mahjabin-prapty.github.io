@@ -43,8 +43,8 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/mashiyat-mahjabin-prapty"
-  kaggle           : "https://www.kaggle.com/mashiyatprapty"  
+  github           : "mashiyat-mahjabin-prapty"
+  kaggle           : "mashiyatprapty"  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -52,12 +52,12 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : "https://www.goodreads.com/user/show/19275783?ref=nav_profile_l"
+  goodreads        : "MMP"
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/mashiyat-mahjabin-prapty-468bb9281/"
+  linkedin         : "mashiyat-mahjabin-prapty"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
