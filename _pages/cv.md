@@ -14,7 +14,7 @@ Education
 * B.Sc. Engineering in Computer Science and Engineering, 2024
 * Higher Secondary School Certificate Examination, 2018 
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2024: Research Intern
   * National University of Singapore
@@ -24,16 +24,24 @@ Work experience
 * Summer 2023: Machine Learning Intern
   * e-SRD Lab, BUET and NWPGCL
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+  * Supervisor: Professor Hub -->
+
+Work Experience
+======
+  <ul>{% for post in site.works reversed %}
+    {% include archive-single-work-cv.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language: C, C++, Java, Python, R, JavaScript, 
+* Assembly, SQL
+* Database: Oracle, PostgreSQL
+* Version Controller: (Git)
+* Framework: React, ExpressJS, PyTorch, Tensorflow
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
 
 Publications
 ======
@@ -41,16 +49,16 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+Achievements
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
+  <ul>{% for post in site.achievements reversed %}
+    {% include archive-single-achievement-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership

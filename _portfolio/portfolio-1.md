@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Vehicle Detection in the context of Bangladesh"
+excerpt: "Models used: YOLOv6, YOLOv8, Co-DETR, RTDETR"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Models used: YOLOv6, YOLOv8, Co-DETR, RTDETR  
+- Designed a pipeline for detecting vehicles in the context of Bangladesh with the BadODD dataset
+that captures more than 5000 images in 9 cities of this country.
+- Explored various pretrained models such as YOLO variants and detection transformers. Finally, chose
+RTDETR as the best model as it captures the hue of both YOLO models and DETRs

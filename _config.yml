@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile_sq.jpg"
   name             : "Mashiyat Mahjabin Prapty"
   pronouns         : # example: "she/her"  
   bio              : "Researcher; Adventurer; Reader"
@@ -209,7 +209,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  achievements:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -218,7 +218,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  works:
     output: true
     permalink: /:collection/:path/
 
@@ -234,7 +234,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -243,14 +243,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _achievements
   - scope:
       path: ""
-      type: teaching
+      type: achievements
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:
@@ -259,7 +259,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _portfolio
   - scope:
@@ -268,16 +268,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
-  # _talks
+  # _works
   - scope:
       path: ""
-      type: talks
+      type: works
     values:
-      layout: talk
+      layout: work
       author_profile: true
-      share: true
+      share: false
 
 
 # Sass/SCSS
