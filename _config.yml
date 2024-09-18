@@ -25,14 +25,14 @@ author:
   name             : "Mashiyat Mahjabin Prapty"
   pronouns         : # example: "she/her"  
   bio              : "Researcher; Adventurer; Reader"
-  location         : "Singapore"
-  employer         : "National University of Singapore"
+  location         : "Bangladesh"
+  employer         : "Bangladesh University of Engineering and Technology"
   uri              : # URL
   email            : "mmprapty@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=6_fSi1IAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5117-8157"
   semantic         : # URL
@@ -215,7 +215,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   works:
@@ -264,7 +264,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
