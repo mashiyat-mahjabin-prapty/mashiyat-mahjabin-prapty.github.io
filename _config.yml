@@ -212,10 +212,10 @@ collections:
   achievements:
     output: true
     permalink: /:collection/:path/
-  research:
+  publication:
     output: true
     permalink: /:collection/:path/
-  projects:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   works:
@@ -255,7 +255,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: research
+      type: publication
     values:
       layout: single
       author_profile: true
@@ -264,7 +264,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: projects
+      type: portfolio
     values:
       layout: single
       author_profile: true
