@@ -1,7 +1,6 @@
 ---
 title: "Is It Really Dead? Digging into Dead Brains through Analyzing Its Behavior in Response to Inducing External Impulses"
 collection: publications
-category: manuscripts
 permalink: /publication/dead-brain
 excerpt: 'This paper is about detecting signals in the posthumous brain of a goat.'
 date: 2021-12-22
