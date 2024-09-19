@@ -6,8 +6,10 @@ permalink: /publication/dead-brain
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-12-22
 venue: 'NSysS 2021'
-posterurl: '/files/paper2.pdf'
+paperurl: '/files/paper2.pdf'
 ---
+
+[Poster](/files/nsys_final.pdf)
 
 - Even though live brains are widely studied in the literature, dead brains remain little explored as perhaps it is generally believed to have a dead brain not workable anymore.
 - In contrary to such general perception, in this work, we explore the possibility of making a dead brain work again.
