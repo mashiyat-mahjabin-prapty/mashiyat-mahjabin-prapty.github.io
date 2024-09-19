@@ -73,8 +73,10 @@ author:
   youtube          : # Username
   zhihu            : # URL
 
-# Publication Category - The following the list of publication categories and their headings
+# Publication Category - The following is the list of publication categories and their headings
 publication_category:
+  unpublished:
+    title: 'Unpublished Work'
   books:
     title: 'Books'
   manuscripts:
