@@ -12,19 +12,12 @@ redirect_from:
 Education
 ======
 * B.Sc. Engineering in Computer Science and Engineering, 2024
-* Higher Secondary School Certificate Examination, 2018 
-
-<!-- Work experience
-======
-* Summer 2024: Research Intern
-  * National University of Singapore
-  * Duties includes: Updates and improvements to template
-  * Supervisor: Professor Dr. Yang Zhang
-
-* Summer 2023: Machine Learning Intern
-  * e-SRD Lab, BUET and NWPGCL
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
+  - CGPA 3.77/4.00 (Degree with Honours)
+  - Secured a position on the Dean's List for two consecutive levels
+  - Notable Courses- Data Structures and Algorithms, Machine Learning, Introduction to Bioinformatics, Statistics and Probability, Linear Algebra, Simulation and Modeling, Computer Architecture, Operating System, Computer Networks, Computer Graphics, Compiler Design
+* Higher Secondary School Certificate Examination, 2018
+  - GPA 5.00/5.00
+  - Obtained Merit Scholarship based on the result
 
 Work Experience
 ======
@@ -32,18 +25,16 @@ Work Experience
     {% include archive-single-work-cv.html %}
   {% endfor %}</ul>
 
-Skills
+Technical Skills
 ======
-* Language: C, C++, Java, Python, R, JavaScript, 
-* Assembly, SQL
+* Language: C, C++, Java, Python, R, JavaScript, Assembly, SQL
 * Database: Oracle, PostgreSQL
-* Version Controller: (Git)
-* Framework: React, ExpressJS, PyTorch, Tensorflow
+* Version Controller: Git
+* Framework: React, NodeJS, PyTorch, TensorFlow
 * Machine Learning
 * Deep Learning
-* Natural Language Processing
 
-Publications
+Research
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -63,4 +54,4 @@ Achievements
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Served as a Class Representative with a majority vote in 3/8 semesters.
