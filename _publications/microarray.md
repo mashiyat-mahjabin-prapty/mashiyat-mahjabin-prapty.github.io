@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Feature Selection and Biological Relevance Analysis in Multi-Disease Gene Expression Data"
 collection: publications
-category: unpublished
+category: manuscripts
 permalink: /publication/microarray-thesis
 excerpt: 'This paper is about identifying the biomarkers of different cancers from microarray gene expression datasets.'
 venue: Not published yet
