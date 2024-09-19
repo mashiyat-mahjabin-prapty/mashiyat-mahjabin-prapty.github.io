@@ -2,8 +2,8 @@
 title: "SUST DLEnigma1.0"
 collection: achievements
 type: "Became 8th out of 98 teams"
-permalink: 
-venue: ""
+permalink: /achievements
+venue: "kaggle"
 date: 2024-01-01
 location: "Dhaka, Bangladesh"
 ---
