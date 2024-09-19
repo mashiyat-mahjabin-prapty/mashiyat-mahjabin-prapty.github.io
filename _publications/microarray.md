@@ -5,7 +5,7 @@ category: unpublished
 permalink: /publication/microarray-thesis
 excerpt: 'This work is about identifying the biomarkers of different cancers from microarray gene expression datasets.<br>Supervisor: <a href="https://scholar.google.com/citations?user=9d52x-cAAAAJ&hl=en">Dr. Mohammad Saifur Rahman</a>'
 venue: Not published yet
-date: 2024-06-01
+
 paperurl: '/files/paper1.pdf'
 ---
 [Github](https://github.com/mashiyat-mahjabin-prapty/Microarray_Dataset_Analysis)

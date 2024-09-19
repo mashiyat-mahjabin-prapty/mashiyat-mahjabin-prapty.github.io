@@ -3,8 +3,8 @@ title: "Protein Solubility Prediction"
 collection: publications
 category: unpublished
 permalink: /publication/protein-sol
-excerpt: 'This is a deep learning task for predicting solubility value of proteins<br>Supervisor: <a href="https://scholar.google.com/citations?user=MtBs-kMAAAAJ&hl=en">Dr. Yang Zhang</a>'
-date: 2024-10-10
+# excerpt: 'This is a deep learning task for predicting solubility value of proteins<br>Supervisor: <a href="https://scholar.google.com/citations?user=MtBs-kMAAAAJ&hl=en">Dr. Yang Zhang</a>'
+# date: 2024-10-10
 venue: Not published yet
 ---
 
