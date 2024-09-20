@@ -7,6 +7,6 @@ permalink: /publication/protein-sol
 # date: 2024-10-10
 venue: Not published yet
 ---
-
+Supervisor: [Dr. Yang Zhang](https://scholar.google.com/citations?user=MtBs-kMAAAAJ&hl=en)  
 - Developed a deep learning-based pipeline to predict the solubility of protein sequences, utilizing a range of protein-related features.
 - Incorporated advanced protein language models (LLMs) for feature extraction and sequence processing.

@@ -1,10 +1,9 @@
 ---
 title: "Online Exam Management System"
-excerpt: "Framework: React, NodeJS, PostgreSQL"
+# excerpt: "Framework: React, NodeJS, PostgreSQL"
 collection: portfolio
 ---
-[GitHub Repository](https://github.com/mashiyat-mahjabin-prapty/OEMS)
-
+[GitHub Repository](https://github.com/mashiyat-mahjabin-prapty/OEMS)  
 **Framework**: React, NodeJS, PostgreSQL  
 - An online written and MCQ format exam management platform
 - Two kinds of users- teachers and students.
