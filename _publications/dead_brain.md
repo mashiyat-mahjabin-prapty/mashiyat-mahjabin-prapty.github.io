@@ -11,5 +11,6 @@ paperurl: '/files/paper2.pdf'
 Supervisor: [A. B. M. Alim Al Islam](https://scholar.google.com/citations?user=K-AIPzQAAAAJ&hl=en)  
 - Even though live brains are widely studied in the literature, dead brains remain little explored as perhaps it is generally believed to have a dead brain not workable anymore.
 - In contrary to such general perception, in this work, we explore the possibility of making a dead brain work again.
-- Explored outputs from a dead brain in response to applying external stimuli (in the form of electrical signals) to it.   
+- Explored outputs from a dead brain in response to applying external stimuli (in the form of electrical signals) to it.  
+
 [Poster Link](/files/nsys_final.pdf)  
