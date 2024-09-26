@@ -54,6 +54,7 @@ Achievements
   
 Service and leadership
 ======
-* Acted as an **Organizer** of BUET CSE Fest 2023  and coordinated several inter-university competitions such as hackathon, programming contest, deep learning competition on behalf of the graduating class.
+* Working as a **Reviewer** in [Heliyon]{https://www.cell.com/heliyon/home} from the beginning of 2024. Reviewed **2** papers till now that can be found in my ORCID profile.
+* Acted as an **Organizer** of BUET CSE Fest 2023  and coordinated several inter-university competitions such as hackathon, programming contest, and deep learning competition on behalf of the graduating class.
 * Worked as a **Student Tutor** for students ranging from middle school, high school, and undergrad-level students during my undergrad years.
 * Served as a **Class Representative** with a majority vote in 3/8 semesters.
